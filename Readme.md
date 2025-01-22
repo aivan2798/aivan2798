@@ -12,10 +12,11 @@
 [![An image of @c0t2w2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/c0t2w2)](https://holopin.io/@c0t2w2)
 
 # ****MY STACK****
-- cpp/c
-- dart ( flutter ) 
-- java ( android, java se, spring,....) 
-- javascript (node.js, react.js)
-- python (flask, fastapi,....)
-- kotlin (android,....) 
-- smali
+- <b>cpp/c</b>
+- <b>dart : flutter </b>
+- <b>java : android, java se, spring </b>
+- <b>javascript : node.js, react.js, jquery</b>
+- <b>python : flask, fastapi, django</b>
+- <b>kotlin : android </b>
+- <b>smali : android reverse engineering</b>
+- <b>assembly: x86 for binary file analysis and reverse engineering</b>
